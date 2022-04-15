@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Marco-MP88
 - 👀 I’m interested in Game Development & Design
 - 🌱 I’m currently learning Godot & Blender Geometry Nodes
-- 🐍 I'm most comfortable with Python
-- 🪟 🐧 🍏 Admin & DevOPS
+- 🐍 I like Python
+- 🪟 🐃+🐧 🍏 Admin & DevOPS
 - 💞️ I’m looking to collaborate on Realtime Graphics Tools & Pipelines
 - 📫 You can reach me @enamaye.com
 
